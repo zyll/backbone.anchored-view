@@ -1,4 +1,4 @@
-class Blue extends Backbone.AnchoredView
+class Blue extends AnchoredView
   render: ->
     @$el.text 'blue'
     @

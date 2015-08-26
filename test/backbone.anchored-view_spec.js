@@ -18,7 +18,7 @@
 
     return Blue;
 
-  })(Backbone.AnchoredView);
+  })(AnchoredView);
 
   describe('an anchored view instancied on an existing el', function() {
     beforeEach(function() {
